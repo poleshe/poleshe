@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BioInformatics
 - 📫 How to reach me? At polestecha14@gmail.com
 
-Python, C, JS, Fortran... you name it.
+Python, C, PHP, JS, Fortran... you name it.
 
 <!---
 poleshe/poleshe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
