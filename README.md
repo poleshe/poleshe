@@ -1,6 +1,6 @@
 Hi!
 
-DevOps / Backend Engineer
+SOAR Automation / Backend Engineer
 
 Reach me on polestecha14 at gmail dot com
 
